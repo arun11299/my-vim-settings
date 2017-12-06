@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/amuralid/Beast-master/include/beast/http/impl'
+let g:netrw_dirhist_2='/Users/amuralid/Beast-master/example/http-client'
+let g:netrw_dirhist_3='/Users/amuralid/dev_test/cpp-hypertext/include/hypertext/impl'
+let g:netrw_dirhist_4='/Users/amuralid/dev_test/cpp-hypertext/include/hypertext/utils'
+let g:netrw_dirhist_5='/Users/amuralid/dev_test/cpp-hypertext/include/hypertext/utils/url_parser'
+let g:netrw_dirhist_6='/Users/amuralid/beast-master/include/boost/beast/core/impl'
+let g:netrw_dirhist_7='/Users/amuralid/dev_test/cpp-jwt/include/jwt'
+let g:netrw_dirhist_8='/Users/amuralid/dev_test/cpp-jwt/include/jwt/impl'
+let g:netrw_dirhist_9='/Users/amuralid/asio-master/asio/include/asio/ssl'
